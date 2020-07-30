@@ -5,7 +5,7 @@ I am Akshit Sarin, a final year CSE undergraduate with Specialisation in AI. :co
 :rocket: **Take a look at some of my projects -**
 - [d.bug](http://d-bug.herokuapp.com/) - Online Code Review Platform
 - [screc.io](https://github.com/akshitsarin/screc.io) - Open Source, Minimal, Easy-to-use Screen Recorder App
-- [uniFy](https://imgur.com/a/vHFMUk5) - Integrating Timetable, Mess Menu, College Floor Plans and Course details into a single app.
+- [uniFy](https://akshit-sarin.s3.ap-south-1.amazonaws.com/uniFy.png) - Integrating Timetable, Mess Menu, College Floor Plans and Course details into a single app.
 
 :chart_with_upwards_trend: **AI / ML -**
 - Udacity's [Artificial Intelligence](https://github.com/akshitsarin/Udacity-AI-Nanodegree) Nanodegree
