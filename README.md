@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there ✌🏻
 
-<!--
-**akshitsarin/akshitsarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Akshit Sarin, a final year CSE undergraduate with Specialisation in AI. <br>
+> :computer: I **really** love coding and creating new products. <br>
 
-Here are some ideas to get you started:
+:rocket: **Take a look at some of my projects -**
+- [d.bug](http://d-bug.herokuapp.com/) - Online Code Review Platform
+- [screc.io](https://github.com/akshitsarin/screc.io) - Open Source, Minimal, Easy-to-use Screen Recorder App
+- [uniFy](https://imgur.com/a/vHFMUk5) - Integrating Timetable, Mess Menu, College Floor Plans and Course details into a single app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:chart_with_upwards_trend: **AI / ML -**
+- Udacity's [Artificial Intelligence](https://github.com/akshitsarin/Udacity-AI-Nanodegree) Nanodegree
+- Secured A+ Grade at GeeksForGeeks [Machine Learning](https://media.geeksforgeeks.org/certificates/1565008584/c1770e26174556c7ddbf1866a3d033d3.pdf) Summer Training
+
+:tada: **Hackathons -**
+- Smart India Hackathon 2020 - **Grand Finalist**, organised by MHRD India
+- Walmart Sparkplug Hackathon 2020 - **Top 15**, organised by Walmart Labs, India
+
+---
+
+:octocat: `Open for Internship/FTE roles!`
