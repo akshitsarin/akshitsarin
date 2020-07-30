@@ -1,7 +1,6 @@
 ### Hey there ✌🏻
 
-I am Akshit Sarin, a final year CSE undergraduate with Specialisation in AI. <br>
-> :computer: I **really** love coding and creating new products. <br>
+I am Akshit Sarin, a final year CSE undergraduate with Specialisation in AI. :computer: I **really** love coding and creating new products. <br>
 
 :rocket: **Take a look at some of my projects -**
 - [d.bug](http://d-bug.herokuapp.com/) - Online Code Review Platform
